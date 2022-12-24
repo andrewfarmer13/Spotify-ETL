@@ -18,4 +18,4 @@ The goal of this project was to first extract my spotify song data, secondly tra
 ## To-Do
 1. Automate the analysis that is done in excel
 2. Optimize the code
-3. Collect the number of times a song has been listed to by the user
+3. Collect the number of times a song has been listened to by the user
